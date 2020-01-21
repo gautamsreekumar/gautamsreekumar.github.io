@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Gautam Sreekumar
+
+~~~
+{}{img_left}{photo.jpg}{Photo}{200px}{200px}
+[gautamsreekumar.github.io Gautam Sreekumar]\n
+First year Ph.D. candidate in [cse.msu.edu Computer Science and Engineering].\n
+Member of [hal.cse.edu Human Analysis Lab].\n
+[https://msu.edu Michigan State University], [https://goo.gl/maps/f4hDosNDrEKPVBq68 East Lansing, MI, USA]\n
+
+Advisor : [http://vishnu.boddeti.net/ Dr. Vishnu Naresh Boddeti]
+
+Contact : /sreekum1/ \[AT\] msu \[DOT\] edu
+~~~
+
+== Introduction
+
+I am a first year Ph.D. candidate in the Department of Computer Science and Engineering, MSU. Previously, I was an undergraduate in [https://www.iitm.ac.in Indian Institute of Technology Madras], where I had the opportunity to work with [http://www.ee.iitm.ac.in/~raju/ Dr. A.N. Rajagopalan] for undergraduate research on *Unsupervised Egocentric Video Captioning using Deep Neural Networks*.
+
+== Research
+
+I am interested in understanding deep neural networks so as to improve the representations learned by them, particularly in the context of images and videos.
